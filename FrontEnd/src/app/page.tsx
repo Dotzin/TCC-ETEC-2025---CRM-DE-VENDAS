@@ -8,7 +8,7 @@ const Page: React.FC = () => {
   return (
     <div>
       <h1>{Numero}</h1>
-      <button onClick={() => {SetNumero(Numero+1)}}></button>
+      <button onClick={() => {SetNumero(Numero+1)}}>Sexoo</button>
     </div>
   );
 };
