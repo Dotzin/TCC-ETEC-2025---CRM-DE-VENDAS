@@ -8,7 +8,7 @@ const Page: React.FC = () => {
   return (
     <div className='flex w-screen h-screen'>
       <LoginLSide/>
-        <LoginRSide/>
+         <LoginRSide/>
     </div>
   );
 };
